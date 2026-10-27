@@ -1,6 +1,6 @@
-# Nortão Tintas · Sorriso-MT
+# Nortão Tintas · Santarém-PA
 
-Landing page da loja Nortão Tintas de Sorriso-MT, feita pela FLY.
+Landing page da loja Nortão Tintas de Santarém-PA, feita pela FLY.
 
 Página única em HTML/CSS/JS puro, sem build: é só abrir o `index.html`.
 
@@ -8,7 +8,7 @@ Página única em HTML/CSS/JS puro, sem build: é só abrir o `index.html`.
 
 - `index.html`: a página inteira (estilos e scripts no próprio arquivo)
 - `img/lata.webp`: lata Nortão Color com o filete de tinta até o rodapé (1024 × 3012, fundo transparente)
-- `img/fachada.jpg`: fachada da loja de Sorriso (recorte da foto vertical, com o painel azul no centro)
+- `img/fachada.jpg`: fachada da loja de Santarém (recorte da foto vertical, com o letreiro em destaque)
 - `img/marcas/`: logos do carrossel de marcas
 - `img/clientes/`: fotos da prova social
 - `img/rolo.svg`: pincelada de rolo usada no fundo
